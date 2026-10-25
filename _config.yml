@@ -1,4 +1,4 @@
-title: maxelor
+title: Maxelor
 description: A site showcasing my work as a mobile developer.
 lang: en
 url: ""
@@ -14,3 +14,6 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor
+
+# Used in the footer.
+author: Maxelor
